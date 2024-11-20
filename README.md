@@ -32,8 +32,6 @@ Here's a walkthrough of implemented user stories:
 <img src='gradle/flixster.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
-
-Describe any challenges encountered while building the app.
 The most difficult thing was getting the UI to display so that the movies could show up in the application. 
 ## License
 
