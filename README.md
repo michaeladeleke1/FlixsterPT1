@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='gradle/flixster.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
