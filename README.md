@@ -34,7 +34,7 @@ Here's a walkthrough of implemented user stories:
 ## Notes
 
 Describe any challenges encountered while building the app.
-The most difficult part was getting the UI to display the information. Using the lab as a guideline, I was able to figure it out eventually.
+The most difficult thing was getting the UI to display so that the movies could show up in the application. 
 ## License
 
     Copyright [2024] [Michael Adeleke]
